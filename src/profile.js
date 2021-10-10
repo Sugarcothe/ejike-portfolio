@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Ejike Williams",
+  name: "Williams",
 };
 const background = {
   // Options: Snow or Particle
@@ -64,6 +64,16 @@ const skillsBar = [
     // svg: '',
     faClass: "fas fa-file-excel",
   },
+  {
+    name: "Salesforce",
+    // svg: '',
+    faClass: "fab fa-salesforce",
+  },
+  {
+    name: "Google Data Studio",
+    // svg: '',
+    faClass: "fas fa-digital-tachograph",
+  },
   
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
@@ -76,54 +86,55 @@ const projects = [
     id: "project1",
     name: " Agaba Africa",
     skills: ["Assocaite Editor, Content Creator"],
-    url: "assets/agaba.jpeg",
-  },
-  {
-    // Add image in './styles/images.css' in #project2
-    id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://www.facebook.com/AGABAfrica",
   },
   {
     // Add image in './styles/images.css' in #project3
-    id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    id: "project2",
+    name: "Montecrest Hotel",
+    skills: ["Social Media Manager"],
+    url: "https://instagram.com/montcrest.hotel?utm_medium=copy_link",
   },
   {
     // Add image in './styles/images.css' in #project4
+    id: "project3",
+    name: "Shunem Home Ideas",
+    skills: ["Social Project Cordinator"],
+    url: "https://www.facebook.com/shunemhomeideas/",
+  },
+  {
+    // Add image in './styles/images.css' in #project2
     id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Vintage Hair",
+    skills: ["Content Manager, SEO"],
+    url: "www.vintagehairs.com",
   },
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "School Of Food Bussiness",
+    skills: ["Social Media Manager"],
+    url: "https://web.facebook.com/School-of-food-business-102045671895601/?_rdc=1&_rdr",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Kulenga Research Lab",
+    skills: ["Social Project Coordinator, Currently, Chief Editor of Kulenga Mathematics"],
+    url: "https://www.facebook.com/kulengalabs/",
   },
+  
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous";
+const section4Title = "Certifications/Awards";
 const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    name: "Leadership & Management",
+    url: "",
   },
   {
     // Add image in './styles/images.css' in #misc2
@@ -145,7 +156,7 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
+  copyright: "Ejike Williams",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it

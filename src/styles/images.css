@@ -34,10 +34,50 @@
     cursor: none;
 }
 .misc2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    background-image: url('./im/Jobberman.jpeg');
     cursor: none;
 }
 .misc3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    background-image: url('./im/Diploma\ Certificate\ in\ Computer\ Appreciation.jpeg');
+    cursor: none;
+}
+.misc4{
+    background-image: url('./im/Human\ Resource\ Management\ Certification.jpeg');
+    cursor: none;
+}
+.misc5{
+    background-image: url('./im/Leadership\ and\ Management\ Certification.jpeg');
+    cursor: none;
+}
+.misc6{
+    background-image: url('./im/Business\ Development\ Funding\ Your\ Business.jpeg');
+    cursor: none;
+}
+.misc7{
+    background-image: url('./im/Business\ Development\ Business\ Processes.jpeg');
+    cursor: none;
+}
+.misc8{
+    background-image: url('./im/Business\ Development\ Managing\ Finance.jpeg');
+    cursor: none;
+}
+.misc9{
+    background-image: url('./im/Business\ Development\ People\ and\ Network.jpeg');
+    cursor: none;
+}
+.misc10{
+    background-image: url('./im/Business\ Development\ Vision\ and\ Opportunities.jpeg');
+    cursor: none;
+}
+.misc11{
+    background-image: url('./im/Business\ Development\ Customers\ and\ Competitors.jpeg');
+    cursor: none;
+}
+.misc12{
+    background-image: url('./im/Driving\ Certificate.jpeg');
+    cursor: none;
+}
+.misc13{
+    background-image: url('./im/Google\ Ads\ Essential\ Certificate.jpeg');
     cursor: none;
 }

@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Williams",
+  name: "Ejike",
 };
 const background = {
   // Options: Snow or Particle
@@ -139,14 +139,73 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    name: "Jobberman Soft Skill Certifications",
+    url: "",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    name: "Diploma Certificate in Computer Appreciation",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc4",
+    name: "Human Resource Management Certification",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc5",
+    name: "Leadership and Management Certification",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc6",
+    name: "Business Development Funding Your Business",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc7",
+    name: "Business Development Business Processes",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc8",
+    name: "Business Development Managing Finance",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc9",
+    name: "Business Development People and Network",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc10",
+    name: "Business Development Vision and Opportunities",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc11",
+    name: "Business Development Customers and Competitors",
+    url: "",
+  }, {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc12",
+    name: "Driving Certificate",
+    url: "",
+  },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc13",
+    name: "Google Ads Essential Certificate",
+    url: "",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
@@ -162,11 +221,10 @@ const contact = {
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
+  facebook: "https://www.facebook.com/onyeke.williams",
   // twitter: "https://twitter.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
+  instagram: "https://www.instagram.com/invites/contact/?i=1jqll59v4vv18&utm_content=1dupwts",
+  linkedin: "https://www.linkedin.com/in/onyeke-ejike-79a7a186",
   resume: "https://novoresume.com/",
 };
 // Dont change anything here
